@@ -1,0 +1,16 @@
+.container image{
+    width: 400rpx;
+    height: 400rpx;
+}
+
+.scan_btn{
+   width: 500rpx;
+   height: 80rpx;
+   margin-top: 80rpx;
+   color: #ffffff;
+   background-color: #509aff;
+}
+.footer_text{
+    font-size: 28rpx;
+    color: #999999;
+}

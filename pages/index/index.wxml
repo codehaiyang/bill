@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="info_box">
+    <view class="info_head">
+    </view>
+    <view class="info_body">
+      <image src="/static/assets/images/add_icon.png" />
+      <text >添加发票信息</text>
+    </view>
+  </view>
+</view>

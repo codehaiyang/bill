@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <image src='/static/assets/images/qrcode.png'></image>
+
+  <button class='scan_btn'>扫一扫查验发票</button>
+
+  <text class='footer_text'>
+    ①点击按钮扫发票二维码查验发票真伪
+    ②我是提示语占位符我是提示语占位符我是提示
+    语占位符
+    ③我是提示语占位符我是提示语占位符我是提示
+    语占位符"
+  </text>
+</view>

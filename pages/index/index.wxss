@@ -1,0 +1,22 @@
+.info_box{
+  width: 660rpx;
+  height: 128rpx;
+  background-color: #ffffff;
+}
+.info_head {
+  width: 8rpx;
+  height: 128rpx;
+  background-color: #509aff;
+  float: left
+}
+.info_body{ 
+    height: 100%
+}
+.info_body image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.info_body text{
+  font-size: 28rpx;
+  margin-left: 20rpx;
+}

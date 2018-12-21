@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/scan/index",
+    "pages/common/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#509aff",
+    "navigationBarTitleText": "发票名片",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#cccccc",
+    "selectedColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/static/assets/images/home_normal.png",
+        "selectedIconPath": "/static/assets/images/home.png"
+      },
+      {
+        "pagePath": "pages/scan/index",
+        "text": "查验",
+        "iconPath": "/static/assets/images/scan_normal.png",
+        "selectedIconPath": "/static/assets/images/scan.png"
+      }, 
+      {
+        "pagePath": "pages/common/index",
+        "text": "小常识",
+        "iconPath": "/static/assets/images/common_normal.png",
+        "selectedIconPath": "/static/assets/images/common.png"
+      }
+    ]
+  }
+}
